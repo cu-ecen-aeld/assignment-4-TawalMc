@@ -2,3 +2,9 @@
 build/
 .vscode/
 *.log
+
+# not found
+# make binutils build-essential diffutils findutils 
+#
+# git submodule add --branch 2024.02.x https://gitlab.com/buildroot.org/buildroot/ buildroot
+# git submodule update --remote
